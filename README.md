@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m doing an intensive bootcamp at Cubos Academy,
-- 🌱 and currently learning Node, React, Javascript, HTML, CSS, DOM, Express, PostgreSQL.
+- 🌱 and currently learning Node, React, HTML, CSS, Express, PostgreSQL.
 - 💬 Ask me about technical recruitment ;D
 - 📫 How to reach me: dayanearnaud@gmail.com or +55 48 9999-32109
 - 😄 Pronouns: She/her.
