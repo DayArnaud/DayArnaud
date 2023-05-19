@@ -4,8 +4,8 @@
 **DayArnaud/DayArnaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m doing an intensive bootcamp at Cubos Academy,
-- 🌱 and currently learning Node, React, HTML, CSS, Express, PostgreSQL.
+- 🔭 I’m doing an intensive bootcamp at Cubos Academy
+- 🌱 Currently learning Node, React, HTML, CSS, Express,Typescript, PostgreSQL.
 - 💬 Ask me about technical recruitment ;D
 - 📫 How to reach me: dayanearnaud@gmail.com or +55 48 9999-32109
 - 😄 Pronouns: She/her.
