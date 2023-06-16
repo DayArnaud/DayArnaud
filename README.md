@@ -5,12 +5,11 @@
 -->
 
 - 🔭 I’m doing an intensive bootcamp at Cubos Academy and Computer Science at Estácio University as a second degree.
-- 🌱 Currently learning Node, React, HTML, CSS, Express, Typescript, PostgreSQL.
+- 🌱 Technologies: Node, React, HTML, CSS, API Rest, Express, Typescript, PostgreSQL, MongoDB.
 - 💬 Ask me about technical recruitment ;D
 - 📫 How to reach me: dayanearnaud@gmail.com
 - 😄 Pronouns: She/her.
 
-Some technologies I'm learning:
 
 ##
 
