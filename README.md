@@ -4,7 +4,7 @@
 **DayArnaud/DayArnaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m doing an intensive bootcamp at Cubos Academy
+- 🔭 I’m doing an intensive bootcamp at Cubos Academy and Computer Science at Estácio University as a second degree.
 - 🌱 Currently learning Node, React, HTML, CSS, Express, Typescript, PostgreSQL.
 - 💬 Ask me about technical recruitment ;D
 - 📫 How to reach me: dayanearnaud@gmail.com
