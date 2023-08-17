@@ -22,3 +22,7 @@
 </div>
   
 ##
+
+<div align="center">
+  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=DayArnaud&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time" />
+</div>
