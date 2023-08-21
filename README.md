@@ -32,5 +32,5 @@
 ##
 
 <div align="center">
-  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=DayArnaud&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando%20desde%2016-Ago-23&range=all_time" />
+  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=DayArnaud&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tracker%20rodando%20desde%2016-Ago-23&range=all_time" />
 </div>
