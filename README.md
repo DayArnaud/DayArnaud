@@ -5,7 +5,7 @@
 --><table align="right">
 
 - 🔭 I’m doing an intensive bootcamp at Cubos Academy and Computer Science at Estácio University as a second degree.
-- :white_check_mark: Fluent English, Spanish, and native Portuguese.
+- :white_check_mark: Fluent English 🇺🇸, Spanish 🇪🇸, and native Portuguese 🇧🇷.
 
 - 🌱 Technologies: Node, React, Angular, Ruby on Rails, HTML, CSS, API Rest, Express, Typescript, PostgreSQL, MongoDB.
 - 💬 Ask me about technical recruitment ;D
