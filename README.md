@@ -3,26 +3,6 @@
 <!--
 **DayArnaud/DayArnaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --><table align="right">
-  <tr>
-    <td height="43px">
-      <b>
-        <a href="README.md">Português 🇧🇷</a>
-      </b>
-    </td>
-  </tr>
-  <tr>
-    <td height="43px">
-      <a href="readme-en.md">English 🇺🇸</a>
-    </td>
-  </tr>  <tr>
-    <td height="43px">
-      <a href="readme-en.md">Spanish 🇪🇸</a>
-    </td>
-  </tr>
-</table>
-
-
-
 
 - 🔭 I’m doing an intensive bootcamp at Cubos Academy and Computer Science at Estácio University as a second degree.
 - :white_check_mark: Fluent English, Spanish, and native Portuguese.
