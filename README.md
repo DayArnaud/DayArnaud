@@ -1,13 +1,13 @@
-### Hi there, I'm Dayane Arnaud 👋
+### Hi there, I'm Dayane Arnaud 👋 
 
 <!--
 **DayArnaud/DayArnaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --><table align="right">
 
-- 🔭 I’m doing an intensive bootcamp at Cubos Academy and Computer Science at Estácio University as a second degree.
+- :white_check_mark: AWS Cloud Practioner Certified. [AWS Certified Cloud Practitioner Badge](https://www.credly.com/badges/1f46187a-e9f5-4d5c-bb4b-8294c2e4df2b/public_url)
 - :white_check_mark: Fluent English 🇺🇸, Spanish 🇪🇸, and native Portuguese 🇧🇷.
-
-- 🌱 Technologies: Node, React, Angular, Ruby on Rails, HTML, CSS, API Rest, Express, Typescript, PostgreSQL, MongoDB.
+- 🔭 I’m doing an intensive bootcamp at Cubos Academy and Computer Science at Estácio University as a second degree.
+- 🌱 Technologies: Node, React, Angular, Ruby on Rails, HTML, CSS, API Rest, Express, Typescript, PostgreSQL, MongoDB, AWS Web Services.
 - 💬 Ask me about technical recruitment ;D
 - 📫 How to reach me: dayanearnaud@gmail.com
 - 😄 Pronouns: She/her.
