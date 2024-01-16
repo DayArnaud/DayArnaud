@@ -6,8 +6,11 @@
 
 - :white_check_mark: AWS Cloud Practioner Certified. [AWS Certified Cloud Practitioner Badge](https://www.credly.com/badges/1f46187a-e9f5-4d5c-bb4b-8294c2e4df2b/public_url)
 - :white_check_mark: Fluent English 🇺🇸, Spanish 🇪🇸, and native Portuguese 🇧🇷.
-- 🔭 I completed a 1167-hour React & Node bootcamp at Cubos Academy in October 2023 and I'm pursuing a second degree in Computer Science at Estácio University.
-- 🌱 Technologies: React, Next 14, Angular, Node, Ruby on Rails, HTML, CSS, Bootstrap, Beer, API Rest, Express, Typescript, PostgreSQL, MongoDB, AWS Web Services.
+- ✅ I completed a 1167-hour React & Node bootcamp at Cubos Academy in October 2023.
+- ✅ I'm an Angular student of Santander Coders 2024.
+- ✅ I'm pursuing a second degree in Computer Science at Estácio University.
+- ✅ Volunteer of Lacrei Saúde, working with Next 14 and Styled-Components.
+- 🌱 Technologies: React, Next 14, Angular, Node, Ruby on Rails, HTML, CSS, Bootstrap, Beer, Styled-Components, API Rest, Express, Typescript, PostgreSQL, MongoDB, AWS Web Services.
 - 💬 Ask me about technical recruitment ;D
 - 📫 How to reach me: dayanearnaud@gmail.com
 - 😄 Pronouns: She/her.
