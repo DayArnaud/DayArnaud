@@ -8,7 +8,6 @@
 - :white_check_mark: Fluent English 🇺🇸, Spanish 🇪🇸, and native Portuguese 🇧🇷.
 - ✅ I completed a 1167-hour React & Node bootcamp at Cubos Academy in October 2023.
 - ✅ I'm an Angular student of Santander Coders 2024 by ADA Tech.
-- ✅ I'm an AWS student of Santander Coders 2024 by DIO.
 - ✅ I'm pursuing a second degree in Computer Science at Estácio University.
 - 🌱 Technologies: Angular, React, Next 14, Node, Ruby on Rails, HTML, CSS, Bootstrap, Styled-Components, API Rest, Typescript, PostgreSQL, MongoDB, AWS Web Services.
 - 💬 Ask me about technical recruitment ;D
