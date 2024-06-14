@@ -7,7 +7,7 @@
 - :white_check_mark: AWS Cloud Practioner Certified. [AWS Certified Cloud Practitioner Badge](https://www.credly.com/badges/1f46187a-e9f5-4d5c-bb4b-8294c2e4df2b/public_url)
 - :white_check_mark: Fluent English 🇺🇸, Spanish 🇪🇸, and native Portuguese 🇧🇷.
 - ✅ I completed a 1167-hour React & Node bootcamp at Cubos Academy in October 2023.
-- ✅ I'm an Angular student of Santander Coders 2024 by ADA Tech.
+- ✅ I completed a 324-hour Angular program of Santander Coders 2024 by ADA Tech.
 - ✅ I'm pursuing a second degree in Computer Science at Estácio University.
 - 🌱 Technologies: Angular, React, Next 14, Node, Ruby on Rails, HTML, CSS, Bootstrap, Styled-Components, API Rest, Typescript, PostgreSQL, MongoDB, AWS Web Services.
 - 💬 Ask me about technical recruitment ;D
