@@ -5,7 +5,7 @@
 --><table align="right">
 
 - :white_check_mark: AWS Cloud Practioner Certified. [AWS Certified Cloud Practitioner Badge](https://www.credly.com/badges/1f46187a-e9f5-4d5c-bb4b-8294c2e4df2b/public_url)
-- :white_check_mark: Oracle Cloud Infrastructure Certified Foundations Associate. [Oracle Cloud Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F5F315800C9CB2598FDA9762D077F11A78130822BCFEF4EC9540DD70F890C78E)
+- :white_check_mark: Oracle Cloud Infrastructure Certified Foundations Associate. [OCI Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F5F315800C9CB2598FDA9762D077F11A78130822BCFEF4EC9540DD70F890C78E)
 - :white_check_mark: Fluent English 🇺🇸, Spanish 🇪🇸, and native Portuguese 🇧🇷.
 - ✅ I completed a 1167-hour React & Node bootcamp at Cubos Academy in October 2023.
 - ✅ I completed a 324-hour Angular program of Santander Coders 2024 by ADA Tech.
